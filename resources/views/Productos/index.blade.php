@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>Vista del Producto</h1>
+
+    <a href="http://localhost/Actividad_6/public/Productos/crear" >Crear un nuevo producto</a>
 </body>
 </html>
